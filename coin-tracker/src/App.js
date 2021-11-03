@@ -45,6 +45,10 @@ function App() {
 
   const onUSDChange = (event) => {
     let userInput = event.target.value;
+    if (userInput[0] === "0" && userInput[1] !== ".") {
+      userInput = userInput.slice(1);
+      console.log(userInput);
+    }
     setUsdValue(userInput);
     setCoinValue(usdValue / coinPrice);
 
@@ -52,10 +56,6 @@ function App() {
       setTimeout(() => {
         setUsdValue(0);
         setCoinValue(0);
-        if (userInput[0] === "0" && userInput[1] !== ".") {
-          userInput = userInput.slice(1);
-          console.log(userInput);
-        }
       }, 200);
     }
   };
