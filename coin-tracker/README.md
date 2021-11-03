@@ -1,3 +1,3 @@
 # coin-tracker
 
-![image](https://user-images.githubusercontent.com/84823612/140088898-23227f61-f7b9-4738-86d5-9354d45c9c6c.png)
+![image](https://user-images.githubusercontent.com/84823612/140091548-1d207bd9-d6bc-478f-b1f8-1923267d7809.png)
