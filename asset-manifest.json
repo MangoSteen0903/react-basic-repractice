@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-basic-repractice/static/css/main.29422d75.chunk.css",
-    "main.js": "/react-basic-repractice/static/js/main.cffe358e.chunk.js",
-    "main.js.map": "/react-basic-repractice/static/js/main.cffe358e.chunk.js.map",
+    "main.css": "/react-basic-repractice/static/css/main.b06d07be.chunk.css",
+    "main.js": "/react-basic-repractice/static/js/main.ed80a443.chunk.js",
+    "main.js.map": "/react-basic-repractice/static/js/main.ed80a443.chunk.js.map",
     "runtime-main.js": "/react-basic-repractice/static/js/runtime-main.1a4bf528.js",
     "runtime-main.js.map": "/react-basic-repractice/static/js/runtime-main.1a4bf528.js.map",
     "static/js/2.1797ab4c.chunk.js": "/react-basic-repractice/static/js/2.1797ab4c.chunk.js",
     "static/js/2.1797ab4c.chunk.js.map": "/react-basic-repractice/static/js/2.1797ab4c.chunk.js.map",
     "index.html": "/react-basic-repractice/index.html",
-    "static/css/main.29422d75.chunk.css.map": "/react-basic-repractice/static/css/main.29422d75.chunk.css.map",
+    "static/css/main.b06d07be.chunk.css.map": "/react-basic-repractice/static/css/main.b06d07be.chunk.css.map",
     "static/js/2.1797ab4c.chunk.js.LICENSE.txt": "/react-basic-repractice/static/js/2.1797ab4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a4bf528.js",
     "static/js/2.1797ab4c.chunk.js",
-    "static/css/main.29422d75.chunk.css",
-    "static/js/main.cffe358e.chunk.js"
+    "static/css/main.b06d07be.chunk.css",
+    "static/js/main.ed80a443.chunk.js"
   ]
 }
