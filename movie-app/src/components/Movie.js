@@ -12,7 +12,7 @@ function Movie({ id, coverImg, title, year, rating }) {
       <div className={styles.info}>
         <h2 className={styles.title}>
           <Link className={styles.link} to={`/movie/${id}`}>
-            {title}
+            {title.length > 25 ? `${title.slice(0, 20)}..` : title}
           </Link>
         </h2>
         <h3 className={styles.meta}>{year}</h3>
