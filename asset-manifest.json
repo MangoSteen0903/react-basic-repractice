@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-basic-repractice.git/static/css/main.29422d75.chunk.css",
-    "main.js": "/react-basic-repractice.git/static/js/main.9a9c0b09.chunk.js",
-    "main.js.map": "/react-basic-repractice.git/static/js/main.9a9c0b09.chunk.js.map",
+    "main.js": "/react-basic-repractice.git/static/js/main.aa0c09d5.chunk.js",
+    "main.js.map": "/react-basic-repractice.git/static/js/main.aa0c09d5.chunk.js.map",
     "runtime-main.js": "/react-basic-repractice.git/static/js/runtime-main.48c70474.js",
     "runtime-main.js.map": "/react-basic-repractice.git/static/js/runtime-main.48c70474.js.map",
     "static/js/2.1797ab4c.chunk.js": "/react-basic-repractice.git/static/js/2.1797ab4c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.48c70474.js",
     "static/js/2.1797ab4c.chunk.js",
     "static/css/main.29422d75.chunk.css",
-    "static/js/main.9a9c0b09.chunk.js"
+    "static/js/main.aa0c09d5.chunk.js"
   ]
 }
